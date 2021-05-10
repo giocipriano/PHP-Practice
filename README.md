@@ -1,2 +1,2 @@
-# php-practice
+# php-basic-crud
  basic php interface with phpMyAdmin 
